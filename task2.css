@@ -1,3 +1,14 @@
-h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+body{
+    background-color: aqua;
+}
+.head{
+color: darkblue;
+}
+
+#bglime{
+background-color: blueviolet;
+}
+#para{
+color: green;
+
 }
